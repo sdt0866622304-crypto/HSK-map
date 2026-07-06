@@ -691,4 +691,5 @@ Nhấn mạnh kết quả thì lược bỏ 1. Nhấn mạnh nguyên nhân thì 
   - **公斤 (gōngjīn)**: Kilogram (1 kg = 1 公斤).
   - **斤 (jīn)**: Cân Trung Quốc (1 斤 = 0.5 kg).
   - *Mẹo mua sắm: Nếu người Trung Quốc nói "10 tệ một cân" (十块一斤), thực chất bạn chỉ đang mua được nửa ký (500 gram) mà thôi.*
+
   
