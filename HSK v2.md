@@ -691,3 +691,29 @@ Nhấn mạnh kết quả thì lược bỏ 1. Nhấn mạnh nguyên nhân thì 
   - **公斤 (gōngjīn)**: Kilogram (1 kg = 1 公斤).
   - **斤 (jīn)**: Cân Trung Quốc (1 斤 = 0.5 kg).
   - *Mẹo mua sắm: Nếu người Trung Quốc nói "10 tệ một cân" (十块一斤), thực chất bạn chỉ đang mua được nửa ký (500 gram) mà thôi.*
+## ĐƠN VỊ ĐO LƯỜNG TRONG TIẾNG HÁN
+
+### **Độ dài (长度单位)**
+- **米 (mǐ)**: Mét (Đơn vị quốc tế chuẩn)
+- **分米 (fēnmǐ)**: Decimet (dm)
+- **厘米 (límǐ)**: Centimet (cm)
+- **毫米 (háomǐ)**: Milimet (mm)
+- **公里 (gōnglǐ)**: Kilomet (km) - *(thường dùng trong văn nói)*
+- **千米 (qiānmǐ)**: Kilomet (km) - *(thường dùng trong văn viết/kỹ thuật)*
+- **尺 (chǐ)**: Thước (Đơn vị truyền thống, 1 尺 ≈ 33.3 cm)
+
+### **Khối lượng (重量单位)**
+- **克 (kè)**: Gram (g)
+- **千克 (qiānkè)**: Kilogram (kg) - *(thường dùng trong văn viết/siêu thị)*
+- **公斤 (gōngjīn)**: Kilogram (kg) - *(cực kỳ phổ biến trong đời sống, 1 公斤 = 1 kg)*
+- **斤 (jīn)**: Cân Trung Quốc (1 斤 = 0.5 kg = 500 gram)
+  - *Mẹo đời sống: Khi mua trái cây, thịt cá ở chợ, người ta luôn tính giá theo **斤** (jīn).*
+- **两 (liǎng)**: Lạng (1 斤 = 10 两, vậy 1 两 = 50 gram)
+- **吨 (dūn)**: Tấn (1 吨 = 1000 kg)
+
+### **Cách đọc số đo (Đặc thù)**
+- **Số 1**: Trong các đơn vị đo, số 1 khi đứng trước đơn vị thường đọc là **yāo** (trong quân đội hoặc mã số) hoặc giữ là **yī**.
+- **Chiều cao**: Đọc theo cấu trúc [Số Mét] + [Số Xăng-ti-mét].
+  - *VD: 1m65 = 一米六五 (Yī mǐ liù wǔ). Không đọc là liù shí wǔ.*
+- **Trọng lượng chợ búa**: 
+  - *VD: 1.5 kg = 一公斤半 (Yī gōngjīn bàn) hoặc 三斤 (Sān jīn - 3 cân).*
