@@ -518,10 +518,18 @@ Nhấn mạnh kết quả thì lược bỏ 1. Nhấn mạnh nguyên nhân thì 
     - *VD: 他比你高没有？(Anh ấy cao hơn bạn chưa/không?)*
 
 ### So sánh ngang bằng với **跟……一样** (gēn... yíyàng)
-  - ==Dùng khi muốn biểu thị hai đối tượng có tính chất tương đồng như nhau==
-  - **Cấu trúc**: A + **跟** + B + **一样** + ==(Tính từ)==
-**她跟我一样喜欢喝奶茶** *(Cô ấy thích trà sữa giống như tôi)*
-  **Phủ định**: Dùng cấu trúc A + **跟** + B + **不一样** (A không giống B)
+  - ==**Ý nghĩa**: Biểu thị hai đối tượng giống hệt nhau hoặc bằng nhau về đặc điểm nào đó.==
+- **Khẳng định (Cơ bản / Tính từ)**: A + **跟 / 和** + B + **一样** + ==(Tính từ)==
+  - *VD: **弟弟跟哥哥一样高** (Em trai cao bằng anh trai)*
+- **Kết hợp với Danh từ**: A + **跟** + B + (有) + **一样的** + ==Danh từ==
+  - **VD: 我们买一样的衣服吧** *(Chúng ta mua quần áo giống nhau đi)*
+- **Kết hợp Động từ (Bổ ngữ trạng thái)**: A + ==Động từ== + **得** + **跟** + B + **一样** + ==(Tính từ)==
+  - **VD: 妹妹跑得跟姐姐一样快** *(Em gái chạy nhanh bằng chị gái)*
+- **Phủ định**: A + **跟** + B + **不一样** + ==(Tính từ)==
+  - **VD: 这里的气候跟我的家乡不一样** *(Khí hậu ở đây không giống quê tôi)*
+- **Nghi vấn**: 
+  - **Có/Không**: A + **跟** + B + **一样** + (Tính từ) + **吗**？ (**VD: 你的想法跟我的想法一样吗？**)
+  - **Chính phản**: A + **跟** + B + **一样不一样**？ (**VD: 越南的天气跟中国的一样不一样？**)
 
 ### So sánh kém với **没有** (méiyǒu)
   - ==Đây là hình thức phủ định phổ biến nhất của câu so sánh, diễn tả A không bằng B==
